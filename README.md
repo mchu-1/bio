@@ -1,2 +1,2 @@
 # bio
-general purpose bio-repository
+This is a general purpose bio-repository.
